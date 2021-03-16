@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Wowmeet</string>
+    <string name="file_chooser_title" translatable="false">choose file</string>
+    <string name="cannot_open_file_chooser_txt" translatable="false">Open file</string>
+      <string name="facebook_app_id" translatable="false">1873469609487539</string>
+    <string name="try_again">Internal error\n\nPlease try again later</string>
+
+</resources>
